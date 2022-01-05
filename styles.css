@@ -1,3 +1,26 @@
 html {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 245, 245);
+    color: rgb(16, 78, 95);
+}
+
+.main-title {
+    color: rgb(39, 102, 120);
+    font-size: 52px;
+    text-align: center;
+}
+
+.description {
+    color: rgb(39, 102, 120);
+    font-size: 28px;
+    font-weight: 400;
+}
+
+a {
+    color: rgb(22, 135, 167);
+    
+}
+
+a:visited {
+    color: rgb(39, 102, 120);
 }
