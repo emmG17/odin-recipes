@@ -1,0 +1,12 @@
+img {
+    height: 25vh;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-title {
+    color: rgb(39, 102, 120);
+    font-size: 22px;
+}
